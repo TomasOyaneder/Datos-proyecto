@@ -1,4 +1,4 @@
-Player,Pos,Tm,MVP,SpotracID,PTS,3P%,FG%,FT%,Image
+Player,Pos,Tm,MVP,SpotracID,PTS,TRI,FG,FT,Image
 LeBron James,"PG,SF,PF","LAL,CLE,MIA",4,2544,27.220000000000002,0.3515333333333333,0.5191333333333333,0.73,https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png
 Kevin Durant,"SG,SF,PF","OKC,BRK,SEA,GSW",1,201142,27.099999999999998,0.38492857142857145,0.4997857142857143,0.8819285714285714,https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png
 Luka Dončić,"PG,SG",DAL,0,1629029,26.525,0.3365,0.4565,0.73625,https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png
